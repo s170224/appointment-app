@@ -1,0 +1,42 @@
+.bgContainer {
+  background-color: #9796f0;
+  align-items: center;
+  padding: 20px;
+  margin: 20px;
+}
+
+.formContainer {
+  background-color: white;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  margin: 20px;
+}
+.button {
+  background-color: #8b5cf6;
+  padding: 10px;
+  margin-top: 15px;
+  border-radius: 6px;
+  width: 60px;
+}
+.list-con {
+  background-color: white;
+}
+.list-con {
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: flex-start;
+  padding: 10px;
+  margin: 10px;
+}
+.formClass {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 10px;
+  margin: 10px;
+}
